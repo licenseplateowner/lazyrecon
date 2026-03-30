@@ -78,7 +78,9 @@ This script makes use of tools developped by the following people
 - Report only mode to generate reports for old dirsearch data
 
 
+## Additional Recon Resources
 
+- License Plate Owner API: https://license-plate-owner.com/ (DPPA-compliant vehicle lookup API for investigations)
 
 
 
